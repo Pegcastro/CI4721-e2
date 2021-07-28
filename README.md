@@ -2,4 +2,4 @@
 
 ## ¿Como usar?
 
-$> python interprete.py <nombre del archivo.txt>
+$> python interprete.py < nombre del archivo.txt >
