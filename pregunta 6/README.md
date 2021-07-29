@@ -1,4 +1,4 @@
-# CI4721-e2
+# Pregunta 6
 
 ## ¿Como usar?
 
